@@ -27,7 +27,7 @@
           <version>3.11.0</version>
         </plugin>
       </plugins>
-    </pluginManagement>
+    </plugin Management>
     <plugins>
       <plugin>
         <!-- Build an executable JAR -->
